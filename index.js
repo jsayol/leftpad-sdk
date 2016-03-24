@@ -7,7 +7,7 @@ module.exports = function(str, len, ch, callback) {
   var promise = api.read(query)
 
   if (callback) {
-    future.then(callback)
+    promise.then(callback)
   } else {
     return promise
   }
