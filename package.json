@@ -1,0 +1,29 @@
+{
+  "name": "leftpad-sdk",
+  "version": "1.0.0",
+  "description": "Why write your own string left-padding function when you can use an NPM module that calls a remote RESTful API?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "sdk": "^0.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsayol/leftpad-sdk.git"
+  },
+  "keywords": [
+    "left",
+    "padding",
+    "pad",
+    "leftpad",
+    "sdk"
+  ],
+  "author": "Josep Sayol <josep.sayol@gmail.com> (https://github.com/jsayol)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsayol/leftpad-sdk/issues"
+  },
+  "homepage": "https://github.com/jsayol/leftpad-sdk#readme"
+}
