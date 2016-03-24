@@ -1,6 +1,6 @@
 {
   "name": "leftpad-sdk",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Why write your own string left-padding function when you can use an NPM module that calls a remote RESTful API?",
   "main": "index.js",
   "scripts": {
