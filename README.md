@@ -2,7 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/leftpad-sdk.svg)](http://badge.fury.io/js/leftpad-sdk)
 
-[![NPM](https://nodei.co/npm/leftpad-sdk.png?downloads=true&downloadRank=true)](https://nodei.co/npm/inversify-binding-decorators/)
+[![NPM](https://nodei.co/npm/leftpad-sdk.png?downloads=true&downloadRank=true)](https://nodei.co/npm/leftpad-sdk/)
 
 
 We were all saddened and shocked by the sudden disappearance of the `left-pad` NPM module. We were lost and unable to left-pad our strings, until one adventurous person decided to develop a RESTful API to offer that same functionality under a revolutionary new technology called SMaaS (String Manipulation as a Service). Believe you me, this is going to be bigger than The Cloud. You can read more about it on its site: http://left-pad.io/
